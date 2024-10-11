@@ -49,4 +49,7 @@ This project involves the design and development of a micromouse robot using the
 - Further optimization of the PID tuning for even more precise movement.
 - Potential upgrades to the sensor array for enhanced environmental awareness.
 
+## Micromouse PID Tuning
+
+[Click here to watch the PID Tuning Video](vid/pidtuning.mp4)
 
