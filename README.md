@@ -9,7 +9,7 @@ This project involves the design and development of a micromouse robot using the
   </figure>
   
   <figure>
-    <img src="img/upper.jpeg" alt="Micromouse Top View" width="300"/>
+    <img src="img/front.jpeg" width="300"/>
     <figcaption><b>Micromouse Side View</b></figcaption>
   </figure>
 </div>
