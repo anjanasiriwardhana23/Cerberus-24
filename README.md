@@ -4,15 +4,15 @@ This project involves the design and development of a micromouse robot using the
 
 <div align="center">
   <figure>
-    <img src="img/front1.jpeg" alt="Micromouse Front View" width="300"/>
-    <figcaption><b>Micromouse Front View</b></figcaption>
+    <img src="img/front1.jpeg" alt="Micromouse Side View" width="300"/>
+    <figcaption><b>Micromouse Side View</b></figcaption>
   </figure>
   
   <figure>
     <img src="img/front.jpeg" width="300"/>
-    <figcaption><b>Micromouse Side View</b></figcaption>
+    <figcaption><b>Micromouse Front View</b></figcaption>
   </figure>
-</div>
+</div
 
 ## Key Features
 - **Microcontroller**: RP2040
