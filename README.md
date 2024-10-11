@@ -53,3 +53,7 @@ This project involves the design and development of a micromouse robot using the
 
 [Click here to watch the PID Tuning Video](vid/pidtuning.mp4)
 
+## Micromouse Turn Tuning
+
+[Click here to watch the Turn Tuning Video](vid/turn.mp4)
+
