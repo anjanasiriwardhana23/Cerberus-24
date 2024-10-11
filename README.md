@@ -22,6 +22,24 @@ This project involves the design and development of a micromouse robot using the
 - **Navigation**: The micromouse utilizes PID control for motor adjustments, relying on both encoder feedback and ToF sensor readings to maintain accurate movement and direction within the maze.
 - **Custom Design**: Features a 4-layer PCB and 3D-printed parts to ensure a compact and optimized layout.
 
+<div align="center">
+  <figure>
+    <img src="img/schematic.jpeg" alt="Micromouse Main Schematic" width="600"/>
+    <figcaption><b>Micromouse Side View</b></figcaption>
+  </figure>
+  
+  <figure>
+    <img src="img/layers.jpeg" width="600"/>
+    <figcaption><b>Micromouse 4- Layer PCB</b></figcaption>
+  </figure>
+
+  <figure>
+    <img src="img/3dview.jpeg" width="600"/>
+    <figcaption><b>Micromouse PCB 3D View</b></figcaption>
+  </figure>
+
+</div
+
 ## Highlights
 - Tuned the micromouse for efficient cell-to-cell navigation, utilizing data from the VL6180X sensors and encoder feedback.
 - Designed a stable and responsive PID control system that integrates data from both the ToF sensors and motor encoders.
