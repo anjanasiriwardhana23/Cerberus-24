@@ -12,7 +12,7 @@ This project involves the design and development of a micromouse robot using the
     <img src="img/front.jpeg" width="300"/>
     <figcaption><b>Micromouse Front View</b></figcaption>
   </figure>
-</div
+</div>
 
 ## Key Features
 - **Microcontroller**: RP2040
@@ -25,7 +25,7 @@ This project involves the design and development of a micromouse robot using the
 <div align="center">
   <figure>
     <img src="img/schematic.jpeg" alt="Micromouse Main Schematic" width="600"/>
-    <figcaption><b>Micromouse Side View</b></figcaption>
+    <figcaption><b>Micromouse Schematic</b></figcaption>
   </figure>
   
   <figure>
