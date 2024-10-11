@@ -2,7 +2,7 @@
 
 This project involves the design and development of a micromouse robot using the RP2040 microcontroller. The system includes a custom 4-layer PCB design and utilizes 3D-printed components for the physical structure. The micromouse is tuned for efficient cell navigation in maze environments, employing various sensors and motors for precision control.
 
-![img](front1.jpeg)
+![Micromouse Front View](img/front1.jpeg)
 
 ## Key Features
 - **Microcontroller**: RP2040
